@@ -26,4 +26,4 @@ By using this function you will have the option to get a single organizational u
 #### Recent Users Only Shows The Last User
 
 * chromebookinventory showed me all the last users?
-* This is know by the development team, we do not have a plan to update this at this time. (7/20/2019)
+* This is know by the core team, we have no plans to change this funcationality currently. (7/20/2019)
