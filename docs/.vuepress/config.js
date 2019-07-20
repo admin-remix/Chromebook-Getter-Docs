@@ -10,6 +10,6 @@ module.exports = {
         ],
         sidebar: 'auto',
         lastUpdated: 'Last Updated',
-        repo: '/admin-remix/Chromebook-Getter-Docs'
+        repo: 'admin-remix/Chromebook-Getter-Docs'
     }
   }
