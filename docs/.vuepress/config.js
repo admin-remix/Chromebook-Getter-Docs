@@ -6,7 +6,8 @@ module.exports = {
             { text: 'Home', link: '/' },
             { text: 'Get Chromebooks', link: '/get-chromebooks/'},
             { text: 'Set Chromebooks', link: '/set-chromebooks/'},
-            { text: 'Get All Chromebooks', link: '/get-all-chromebooks/'}
+            { text: 'Get All Chromebooks', link: '/get-all-chromebooks/'},
+            { text: 'Roadmap', link: '/product-roadmap/'}
         ],
         sidebar: 'auto',
         lastUpdated: 'Last Updated',
