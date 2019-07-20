@@ -1,0 +1,14 @@
+{
+  "name": "chromebook-getter-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lundin Matthews <lundinmatthews@me.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
