@@ -8,6 +8,8 @@ module.exports = {
             { text: 'Set Chromebooks', link: '/set-chromebooks/'},
             { text: 'Get All Chromebooks', link: '/get-all-chromebooks/'}
         ],
-        sidebar: 'auto' 
+        sidebar: 'auto',
+        lastUpdated: 'Last Updated',
+        repo: '/admin-remix/Chromebook-Getter-Docs'
     }
   }
