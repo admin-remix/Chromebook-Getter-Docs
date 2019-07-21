@@ -18,6 +18,14 @@ This results in a smooth, streamlined app that keeps data privacy conerns at its
 * [Set Chromebooks Meta Data](/set-chromebooks/)
 * [Get All Chromebooks](/get-all-chromebooks/)
 
+## Tools Used
+
+* [clasp](https://developers.google.com/apps-script/guides/clasp)
+* [vs code](https://code.visualstudio.com/)
+* [typescript](https://www.typescriptlang.org/)
+* [Google Admin SDK](https://developers.google.com/admin-sdk/)
+* [App Script Reference](https://developers.google.com/apps-script/reference/)
+
 ## Why Not...?
 
 #### Build My Own Tool
