@@ -8,6 +8,7 @@ While the core funcationality of Chromebook Getter will always remain free, we w
 * Get Single organizational unit and children
 * Set Chromebook Meta Data
 * Move Chromebooks organizational units
+* Freeze Cells On Page Build
 
 ## Premium Funcationality
 
@@ -21,3 +22,6 @@ While the core funcationality of Chromebook Getter will always remain free, we w
 * Caching to speed up core funcationality
 * Phone, Email, Video Support
 * Detailed Chromebook usage reports based on time and location
+
+\
+<sup>The list of premium features is a living doucment and subject to change based on user feedback.</sup>

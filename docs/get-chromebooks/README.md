@@ -11,6 +11,49 @@ By using this function you will have the option to get a single organizational u
 * Press blue 'Get Chromebooks' button.
 * Depending on how many devices you have this could take a couple minutes, grab some coffee and come back. A dialog box will let you know when data is ready.
 
+## Look Under The Hood
+
+```ts
+
+function multipleOrgGet(orgToGet: string, getSubOrgs: boolean = false) {
+  try {
+    // https://issuetracker.google.com/issues/63418725
+    const RemoveFirstSlash: string = orgToGet.substring(1)
+    const chromebooks: GoogleAppsScript.AdminDirectory.Schema.ChromeOsDevices[] = []
+    let OrgsAndSubOrgs: GoogleAppsScript.AdminDirectory.Schema.OrgUnit[]
+    
+    if (getSubOrgs === true) {
+      const ParentOrg = AdminDirectory.Orgunits.get(CUSTOMER, [RemoveFirstSlash])
+      const ChildrenOrgs = AdminDirectory.Orgunits.list(CUSTOMER, {
+        type: ALL,
+        orgUnitPath: ParentOrg.orgUnitId 
+      }).organizationUnits
+      if (ChildrenOrgs && ChildrenOrgs.length > 0) {
+        OrgsAndSubOrgs = [ParentOrg, ...ChildrenOrgs]
+      } else {
+        OrgsAndSubOrgs = [ParentOrg]
+      }     
+    } else {
+      // HANDLE MAIN ORG
+      if (!RemoveFirstSlash) {
+        OrgsAndSubOrgs = [{ orgUnitPath: '/' }]
+      } else {
+        OrgsAndSubOrgs = [AdminDirectory.Orgunits.get(CUSTOMER, [RemoveFirstSlash])]
+      }   
+    }
+
+    buildDataSheet(
+      chromebooks
+        .concat(...OrgsAndSubOrgs.map(orgUnit => getChromebooksInOrg(orgUnit.orgUnitPath)))
+    )
+
+  } catch (error) {
+    ERROR_MESSAGE(error)
+  }
+}
+
+```
+
 ## Known Issues
 
 #### My Sidebar says 'Loading'
