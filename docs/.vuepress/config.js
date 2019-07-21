@@ -13,6 +13,8 @@ module.exports = {
         lastUpdated: 'Last Updated',
         repo: 'admin-remix/Chromebook-Getter-Docs',
         editLinks: true,
-        editLinkText: 'Edit on Github'
+        editLinkText: 'Edit on Github',
+        ga: 'UA-126552154-5',
+        serviceWorker: process.env.NODE_ENV = 'production',
     }
   }
