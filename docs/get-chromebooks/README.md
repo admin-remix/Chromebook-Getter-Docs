@@ -69,4 +69,4 @@ function multipleOrgGet(orgToGet: string, getSubOrgs: boolean = false) {
 #### Recent Users Only Shows The Last User
 
 * chromebookinventory showed me all the last users?
-* This is know by the core team, we have no plans to change this funcationality currently. (7/20/2019)
+* This is known by the core team, we have no plans to change this funcationality currently. (7/20/2019)
