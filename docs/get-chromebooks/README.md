@@ -66,11 +66,12 @@ function multipleOrgGet(orgToGet: string, getSubOrgs: boolean = false) {
 * Ensure that you are a domain super admin.
 * Uninstall Chromebook Getter and close your web browser, reinstall Chromebook Getter.
 
-#### <del>Certain Organizational Units Will Not Pull Data or Say No Data</del>
-
-* <del>We are currently investigating this issue and have been able to recreate this issue locally. (7/20/2019)</del>
-
 #### Recent Users Only Shows The Last User
 
 * chromebookinventory showed me all the last users?
 * This is known by the core team, we have no plans to change this funcationality currently. (7/20/2019)
+
+#### <del>Certain Organizational Units Will Not Pull Data or Say No Data</del>
+
+* <del>We are currently investigating this issue and have been able to recreate this issue locally. (7/20/2019)</del>
+* Resolved (7/24/2019)
