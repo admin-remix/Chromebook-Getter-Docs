@@ -1,15 +1,15 @@
 # Basics
 
-The Get Chromebooks funcationality is the core way that you will interact with Chromebook Getter.
-By using this function you will have the option to get a single organizational unit or a organizational unit and all its child organizational units.
+The Get Chromebooks functionality is the core way that you will interact with Chromebook Getter.
+By using this function you will have the option to get a single organizational unit or an organizational unit and all its child organizational units.
 
 ## How To Use
 
 * Add-ons -> Chromebook Getter -> Get Chromebooks
-* Use the Dropdown menu to choose the organizational unit you need Chromeobook data for.
-* If needing child oranizational units select the check box.
+* Use the Dropdown menu to choose the organizational unit you need Chromebook data for.
+* If needing child organizational units select the check box.
 * Press blue 'Get Chromebooks' button.
-* Depending on how many devices you have this could take a couple minutes, grab some coffee and come back. A dialog box will let you know when data is ready.
+* Depending on how many devices you have, this could take a couple of minutes. Grab some coffee and come back. A dialog box will let you know when data is ready.
 
 ## Look Under The Hood
 
@@ -62,13 +62,13 @@ function multipleOrgGet(orgToGet: string, getSubOrgs: boolean = false) {
 
 #### My Sidebar says 'Loading'
 
-* Ensture your district web filter has the following url unblocked `https://cdn.jsdelivr.net/npm/vue/dist/vue.js`
+* Ensure your district web filter has the following url unblocked `https://cdn.jsdelivr.net/npm/vue/dist/vue.js`
 * Ensure that you are a domain super admin.
 * Uninstall Chromebook Getter and close your web browser, reinstall Chromebook Getter.
 
 #### Recent Users Only Shows The Last User
 
-* chromebookinventory showed me all the last users?
+* chromebookinventory showed me all of the last users?
 * This is known by the core team, we have no plans to change this funcationality currently. (7/20/2019)
 
 #### Exception: tha data validation rule has more items than the limit of 500. Use the "List from a range" criteria instead.

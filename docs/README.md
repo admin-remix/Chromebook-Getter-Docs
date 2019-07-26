@@ -9,8 +9,8 @@ It was created as a replacement for the chromebookinventory add on that was depr
 ## How It Works
 
 Chromebook Getter is powered by Google Appscript.
-The add on runs localy in the users browser and communicates directly with Google servers.
-This results in a smooth, streamlined app that keeps data privacy conerns at its core.
+The add on runs locally in the user's browser and communicates directly with Google servers.
+This results in a smooth, streamlined app that keeps data privacy concerns at its core.
 
 ## Features
 
@@ -30,6 +30,9 @@ This results in a smooth, streamlined app that keeps data privacy conerns at its
 
 #### Build My Own Tool
 
-Sure this can be done but we know any time spent doing this is time you could be doing other things,
-like helping a teacher with an issue, installing that new phone system or maybe deploying Chromebooks.
-Let us handle the work of fixing the weird bugs that come with building software on top of Google for you.
+Sure! This can be done. But we know any time spent doing this is time you could be more productive as in:
+* helping teachers with their technology issues,
+* installing new phone systems,
+* or deploying Chromebooks
+
+Let us handle the work for you. We solve the bugs and problems that come with building software on top of Google API's.

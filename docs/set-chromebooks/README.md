@@ -1,12 +1,12 @@
 # Basics
 
-The Set Chromebooks Meta Data funcationality is the only way you will update Chromebook data.
-By using this function you will have the option to update the data of every Chromebook on the current Google sheet.
+The Set Chromebooks Meta Data functionality is the only way you will update Chromebook data.
+By using this function, you will have the option to update the data of every Chromebook on the current Google sheet.
 
 ## How To Use
 
 * Add-ons -> Chromebook Getter -> Set Chromebooks Meta Data.
-* Confirm that you want to update the deivce using the dialog box.
+* Confirm that you want to update the device using the dialog box.
 * Wait for confirmation dialog box.
 
 ## Look Under The Hood
