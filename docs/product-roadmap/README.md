@@ -25,3 +25,7 @@ While the core funcationality of Chromebook Getter will always remain free, we w
 
 \
 <sup>The list of premium features is a living doucment and subject to change based on user feedback.</sup>
+
+## Your Thoughts
+
+Please give use your [feedback](https://forms.gle/wHenTrtWkYx3EutK9) on this document.
