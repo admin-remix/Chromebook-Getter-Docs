@@ -13,8 +13,7 @@ The add on runs locally in the user's browser and communicates directly with Goo
 This results in a smooth, streamlined app that keeps data privacy concerns at its core.
 
 ## Simple Install Process
-
-
+<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mVfdjpv1WMM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Features
