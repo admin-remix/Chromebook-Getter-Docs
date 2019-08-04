@@ -21,7 +21,7 @@ The manage organizational units feature allows users to create and delete organi
 
 ## Video Walkthrough
 
-<sup>COMING SOON</sup>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BS2WTZUbTEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Known Issues
 
