@@ -21,6 +21,7 @@ This results in a smooth, streamlined app that keeps data privacy concerns at it
 * [Get Chromebooks](/get-chromebooks/)
 * [Set Chromebooks Meta Data](/set-chromebooks/)
 * [Get All Chromebooks](/get-all-chromebooks/)
+* [Premium Account](/premium-account/)
 
 ## Tools Used
 
