@@ -13,7 +13,7 @@ The deivce quick search feature allows users to get detailed device infomation f
 
 ## Video Walkthrough
 
-<sup>COMING SOON</sup>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BLFcdIhE3yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Known Issues
 
