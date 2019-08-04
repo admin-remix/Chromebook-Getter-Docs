@@ -6,7 +6,7 @@ By using this function, you will have the option to update the data of every Chr
 ## How To Use
 
 * Add-ons -> Chromebook Getter -> Chromebook Actions -> Set Chromebooks Meta Data.
-  * If you have the 'Get Chromebooks' menu open you upload using the 'Upload icon'
+  * If you have the 'Get Chromebooks' menu open you can upload using the 'Upload icon'
 * Confirm that you want to update the device using the dialog box.
 * Wait for confirmation dialog box.
 
