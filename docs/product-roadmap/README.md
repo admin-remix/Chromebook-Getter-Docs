@@ -24,7 +24,7 @@ While the core funcationality of Chromebook Getter will always remain free, we w
     * View full user usage history (In Production)
     * View full time usage history (In Production)
     * Update Single Chromebook (In Production)
-    * Deprovsion Chrombooks
+    * Deprovision Chrombooks
     * Disable Chromebooks
 * Get devices by enrollment date
 
