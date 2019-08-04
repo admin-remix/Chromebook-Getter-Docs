@@ -1,4 +1,6 @@
-# Overview
+# Get Chromebooks
+
+## Overview
 
 The Get Chromebooks functionality is the core way that you will interact with Chromebook Getter.
 By using this function you will have the option to get a single organizational unit or an organizational unit and all its child organizational units.

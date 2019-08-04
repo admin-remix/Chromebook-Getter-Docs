@@ -1,4 +1,6 @@
-# Overview
+# Get All Chromebooks
+
+## Overview
 
 The Get All Chromebooks functionality is a quick way to get all devices in your organization with Chromebook Getter.
 By using this function you will have no options and the add-on will pull all Chromebooks back.

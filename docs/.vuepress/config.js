@@ -5,7 +5,7 @@ module.exports = {
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Chromebook Actions', link: '/chromebook-actions/'},
-            { text: 'Premium Account', link: 'premium-account/'},
+            { text: 'Premium Account', link: '/premium-account/'},
             { text: 'Roadmap', link: '/product-roadmap/'},
         ],
         sidebar: {
