@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Basics
 
 The Get Chromebooks functionality is the core way that you will interact with Chromebook Getter.

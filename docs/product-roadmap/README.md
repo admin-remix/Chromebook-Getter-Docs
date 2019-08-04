@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Roadmap
 
 While the core funcationality of Chromebook Getter will always remain free, we would like to introduce mulitple premium features that we belive will enhance and add to the funcationality of Chromebook Getter. Allowing you to be even more productive while using our app. 

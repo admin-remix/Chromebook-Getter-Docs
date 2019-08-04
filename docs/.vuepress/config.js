@@ -9,7 +9,13 @@ module.exports = {
             { text: 'Get All Chromebooks', link: '/get-all-chromebooks/'},
             { text: 'Roadmap', link: '/product-roadmap/'}
         ],
-        sidebar: 'auto',
+        sidebar: {
+            '/premium-account/': [
+                '',
+                'device-quick-search',
+                'manage-organizational-units'
+            ]
+        },
         lastUpdated: 'Last Updated',
         repo: 'admin-remix/Chromebook-Getter-Docs',
         editLinks: true,

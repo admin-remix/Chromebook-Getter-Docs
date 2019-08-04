@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Basics
 
 The Get All Chromebooks functionality is a quick way to get all devices in your organization with Chromebook Getter.

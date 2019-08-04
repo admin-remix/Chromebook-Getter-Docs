@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Basics
 
 The Set Chromebooks Meta Data functionality is the only way you will update Chromebook data.
