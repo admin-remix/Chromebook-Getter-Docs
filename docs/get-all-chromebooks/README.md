@@ -5,7 +5,7 @@ By using this function you will have no options and the add-on will pull all Chr
 
 ## How To Use
 
-* Add-ons -> Chromebook Getter -> Get All Chromebooks
+* Add-ons -> Chromebook Getter -> Chromebook Actions -> Get All Chromebooks
 * Depending on how many devices you have, this could take a couple of minutes. Grab some coffee and come back. A dialog box will let you know when data is ready.
 
 ## Look Under The Hood
@@ -21,7 +21,7 @@ function pullChromebooks(
       pageToken: nextPageToken
     })
     if (data && data.chromeosdevices && data.chromeosdevices.length > 0) chromebooks.push(...data.chromeosdevices)
-    if (data.nextPageToken) pullChromebooks(chromebooks, data.nextPageToken)
+    if (data.nextPageToken) return pullChromebooks(chromebooks, data.nextPageToken)
     if (!data.nextPageToken) return buildDataSheet(chromebooks)
   } catch (error) {
     ERROR_MESSAGE(error)
