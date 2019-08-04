@@ -25,6 +25,14 @@ module.exports = {
         repo: 'admin-remix/Chromebook-Getter-Docs',
         editLinks: true,
         editLinkText: 'Edit on Github',
+        serviceWorker: {
+            updatePopup: true // Boolean | Object, default to undefined.
+            // If set to true, the default text config will be: 
+            // updatePopup: { 
+            //    message: "New content is available.", 
+            //    buttonText: "Refresh" 
+            // }
+        }
     },
     ga: 'UA-126552154-5',
     serviceWorker: process.env.NODE_ENV = 'production',
