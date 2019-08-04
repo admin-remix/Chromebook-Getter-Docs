@@ -4,16 +4,21 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'Get Chromebooks', link: '/get-chromebooks/'},
-            { text: 'Set Chromebooks', link: '/set-chromebooks/'},
-            { text: 'Get All Chromebooks', link: '/get-all-chromebooks/'},
-            { text: 'Roadmap', link: '/product-roadmap/'}
+            { text: 'Chromebook Actions', link: '/chromebook-actions/'},
+            { text: 'Premium Account', link: 'premium-account/'},
+            { text: 'Roadmap', link: '/product-roadmap/'},
         ],
         sidebar: {
             '/premium-account/': [
                 '',
                 'device-quick-search',
                 'manage-organizational-units'
+            ],
+            '/chromebook-actions/': [
+                '',
+                'get-chromebooks',
+                'set-chromebooks',
+                'get-all-chromebooks'
             ]
         },
         lastUpdated: 'Last Updated',
