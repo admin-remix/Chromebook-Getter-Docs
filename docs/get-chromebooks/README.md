@@ -8,7 +8,7 @@ By using this function you will have the option to get a single organizational u
 * Add-ons -> Chromebook Getter -> Chromebook Actions -> Get Chromebooks
 * Use the Dropdown menu to choose the organizational unit you need Chromebook data for.
 * If needing child organizational units select the check box.
-* Press blue 'Get Chromebooks' button.
+* Press blue 'Get Chromebooks' button or 'Download Icon'.
 * Depending on how many devices you have, this could take a couple of minutes. Grab some coffee and come back. A dialog box will let you know when data is ready.
 
 ## Look Under The Hood
