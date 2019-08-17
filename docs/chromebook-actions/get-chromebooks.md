@@ -78,7 +78,8 @@ function multipleOrgGet(orgToGet: string, getSubOrgs: boolean = false) {
 * <del>This error only happens for users with over 500 org units.
 * This issue is caused by a hard limit of app script data validation rules having a limit of 500.
 * We are looking into a fix for this issue (7/25/2019)</del>
-* Patch Issued (8/1/2019) bypassing features for users with more than 500 orgs.
+* <del>Patch Issued (8/1/2019) bypassing features for users with more than 500 orgs.<del>
+* Issue resolved for all users (8/17/2019)
 
 #### <del>Certain Organizational Units Will Not Pull Data or Say No Data</del>
 
