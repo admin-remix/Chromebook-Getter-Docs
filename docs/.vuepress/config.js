@@ -12,7 +12,8 @@ module.exports = {
             '/premium-account/': [
                 '',
                 'device-quick-search',
-                'manage-organizational-units'
+                'manage-organizational-units',
+                'aue-report'
             ],
             '/chromebook-actions/': [
                 '',
