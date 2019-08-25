@@ -17,6 +17,10 @@ The AUE report allows users to create a report that allows easy budget forcastin
 
 <sup>COMING SOON</sup>
 
+## Sample Report
+
+[View sample report](https://docs.google.com/spreadsheets/d/1bRtmNX_8dQjQwga_LWNMqFIvc8qzsckUJn9H51fxUW8/edit?usp=sharing) on google sheets.
+
 ## Known Issues
 
 <sup>NONE AT THIS TIME</sup>
