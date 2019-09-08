@@ -22,7 +22,7 @@ While the core funcationality of Chromebook Getter will always remain free, we w
 * Create organizational units (In Production)
 * Delete organizational units (In Production)
 * Caching to speed up core funcationality
-    * Speed Uploader - Improves upload speed by 1000% (In Production)
+    * Speed Uploader - Improves upload speed by 85% (In Production)
 * Phone, Email, Video Support (Ready)
 * Detailed Chromebook usage reports based on time and location
 * See all recent users (In Production)
