@@ -1,4 +1,11 @@
 module.exports = {
+    configureWebpack: {
+        resolve: {
+            alias: {
+                '@static': './static'
+            }
+        }
+    },
     title: 'Chromebook Getter',
     description: 'Help & Support For Chromebook Getter by AdminRemix',
     themeConfig: {
