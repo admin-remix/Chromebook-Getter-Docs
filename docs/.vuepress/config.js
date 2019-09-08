@@ -2,7 +2,7 @@ module.exports = {
     configureWebpack: {
         resolve: {
             alias: {
-                '@static': './static'
+                '@static': '../../static'
             }
         }
     },
