@@ -17,6 +17,14 @@ module.exports = {
             { text: 'Roadmap', link: '/product-roadmap/'},
         ],
         sidebar: {
+            '/guide/': [
+                '',
+                '#how-it-works',
+                '#how-to-install',
+                '#features',
+                '#tools-used',
+                '#why-not'
+            ],
             '/premium-account/': [
                 '',
                 'device-quick-search',
