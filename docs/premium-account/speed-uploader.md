@@ -6,7 +6,7 @@ The speed uploaded was created after months of work, we have found that this is 
 
 ## How To Use
 
-* Have a Premium Account and the set upload feature is changed to the speed uploader by default.
+* Have a Premium Account and the Set Chromebooks feature is changed to the speed uploader by default.
 
 
 ## Video Walkthrough
