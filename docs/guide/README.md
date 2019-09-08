@@ -1,6 +1,6 @@
 # Introduction
 
-![Chromebook Getter Logo](../static/getterlogo.png)
+![Chromebook Getter Logo](../../static/getterlogo.png)
 
 [Chromebook Getter](https://chrome.google.com/webstore/detail/chromebook-getter/iamajmlafjfaobppjfllijpikffekpok?authuser=0)
 is a Google sheet add on that allows Gsuite super admin to get & set Chromebook meta data.
