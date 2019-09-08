@@ -4,6 +4,7 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
+            { text: 'Guide', link: '/guide/' },
             { text: 'Chromebook Actions', link: '/chromebook-actions/'},
             { text: 'Premium Actions', link: '/premium-account/'},
             { text: 'Roadmap', link: '/product-roadmap/'},
