@@ -4,8 +4,11 @@ heroImage: /getterlogo.png
 actionText: Get Started →
 actionLink: /guide/
 features:
-- title: Manage Chromebooks
-- title: Create Organizational Units
-- title: Generate Custom Reports
+- title: Scott M
+  details: Great product and a huge time saver.  I have not yet had the opportunity to look at premium features but will.
+- title: Sarah S
+  details: You have filled a huge hole with a app that is better than the original.
+- title: Paul M
+  details: Just signed up for premium and everything looks good!
 footer: Copyright © 2018-present AdminRemix
 ---
