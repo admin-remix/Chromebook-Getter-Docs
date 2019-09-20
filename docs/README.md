@@ -10,5 +10,5 @@ features:
   details: Sarah S
 - title: Just signed up for premium and everything looks good! 
   details: Paul M
-footer: Copyright © 2018-present AdminRemix
+footer: Copyright © 2018 - present AdminRemix
 ---
