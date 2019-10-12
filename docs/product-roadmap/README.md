@@ -8,9 +8,9 @@ While the core funcationality of Chromebook Getter will always remain free, we w
 
 ## Core Funcationality
 
-* Get All Chromebooks
-* Get Single organizational unit and children
-* Set Chromebook Meta Data
+* [Get All Chromebooks](/chromebook-actions/get-all-chromebooks/)
+* [Get Single organizational unit and children](/chromebook-actions/get-chromebooks/)
+* [Set Chromebook Meta Data](/chromebook-actions/set-chromebooks/)
 * Move Chromebooks organizational units
 * Freeze Cells On Page Build
 
