@@ -15,7 +15,8 @@ This feature will allow you to only pull in the devices you need from a organiza
 
 ## Video Walkthrough
 
-<sup>COMING SOON</sup>
+<br />
+<iframe width="560" height="315" src="https://youtu.be/PxPJuvSL8ck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Known Issues
 
