@@ -30,7 +30,8 @@ module.exports = {
                 'device-quick-search',
                 'manage-organizational-units',
                 'aue-report',
-                'speed-uploader'
+                'speed-uploader',
+                'enrollment-date'
             ],
             '/chromebook-actions/': [
                 '',

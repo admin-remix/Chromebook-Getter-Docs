@@ -33,7 +33,7 @@ While the core funcationality of Chromebook Getter will always remain free, we w
     * Update Single Chromebook (In Production)
     * Deprovision Chrombooks
     * Disable Chromebooks
-* Get devices by enrollment date
+* Get devices by enrollment date (In Production)
 
 \
 <sup>The list of premium features is a living doucment and subject to change based on user feedback.</sup>
