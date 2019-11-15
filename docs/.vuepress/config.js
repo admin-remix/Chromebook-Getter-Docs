@@ -7,7 +7,7 @@ module.exports = {
         }
     },
     title: 'Chromebook Getter',
-    description: 'Chromebook Getter by AdminRemix allows you to get and set your Chromebook inventory in bulk using Google sheets.',
+    description: 'Help & Support For Chromebook Getter by AdminRemix',
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
