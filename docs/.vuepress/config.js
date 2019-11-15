@@ -7,7 +7,7 @@ module.exports = {
         }
     },
     title: 'Chromebook Getter',
-    description: 'Chromebook Getter by AdminRemix allows you to get and set your Chromebook inventory in bulk using Google sheets. We understand the complexity of managing a Chromebook fleet at scale, and have the tool to help',
+    description: 'Chromebook Getter by AdminRemix allows you to get and set your Chromebook inventory in bulk using Google sheets.',
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
