@@ -1,4 +1,4 @@
-# Enrollment Date
+# Enrollment Date Filter
 
 ## Overview
 
