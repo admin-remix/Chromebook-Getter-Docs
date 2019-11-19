@@ -31,6 +31,7 @@ module.exports = {
                 'manage-organizational-units',
                 'aue-report',
                 'speed-uploader',
+                'filters',
                 'enrollment-date'
             ],
             '/chromebook-actions/': [
