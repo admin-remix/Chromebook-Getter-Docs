@@ -6,9 +6,9 @@ There are many times when you would want to filter the data your pulling down fr
 
 ## How To Use
 
-* Inside the Get Chromebooks Sidebar
+* Inside the 'Get Chromebooks' sidebar
 * Click the check box for the filter you want to enable
-* Select the filter critera 
+* Select the filter critera
 * Get Chromebooks
 
 
