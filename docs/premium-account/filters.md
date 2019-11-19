@@ -6,7 +6,7 @@ There are many times when you would want to filter the data your pulling down fr
 
 ## How To Use
 
-* Inside the 'Get Chromebooks' sidebar
+* Add-ons -> Chromebook Getter -> Chromebook Actions -> Get Chromebooks
 * Click the check box for the filter you want to enable
 * Select the filter critera
 * Get Chromebooks
