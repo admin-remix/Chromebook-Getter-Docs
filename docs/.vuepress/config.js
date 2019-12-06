@@ -33,7 +33,8 @@ module.exports = {
                 'speed-uploader',
                 'enrollment-date',
                 'filters',
-                'batch-retrieval'
+                'batch-retrieval',
+                'action-history'
             ],
             '/chromebook-actions/': [
                 '',

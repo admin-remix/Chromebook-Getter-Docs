@@ -21,6 +21,10 @@ The AUE report allows users to create a report that allows easy budget forcastin
 
 [View sample report](https://docs.google.com/spreadsheets/d/1bRtmNX_8dQjQwga_LWNMqFIvc8qzsckUJn9H51fxUW8/edit?usp=sharing) on google sheets.
 
+## Screen Shot
+
+![Chromebook Getter Batch Mode Screen Shot](~@static/aue_sample.png)
+
 ## Known Issues
 
 <sup>NONE AT THIS TIME</sup>

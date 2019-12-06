@@ -17,6 +17,10 @@ There are times when you want to pull a list of devices from a list that could b
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpRnAyHuJg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Screen Shot
+
+![Chromebook Getter Batch Mode Screen Shot](~@static/batch_mode.png)
+
 
 ## Known Issues
 

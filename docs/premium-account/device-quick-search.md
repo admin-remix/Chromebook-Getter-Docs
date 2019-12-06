@@ -15,6 +15,10 @@ The deivce quick search feature allows users to get detailed device infomation f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BLFcdIhE3yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Screen Shot
+
+![Chromebook Getter Quick Search Screen Shot](~@static/quick_serach.png)
+
 ## Known Issues
 
 <sup>NONE AT THIS TIME</sup>
