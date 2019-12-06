@@ -15,7 +15,7 @@ module.exports = {
             { text: 'Chromebook Actions', link: '/chromebook-actions/'},
             { text: 'Premium Actions', link: '/premium-account/'},
             { text: 'Roadmap', link: '/product-roadmap/'},
-            { text: 'Pricing', link: '/pricing' }
+            { text: 'Pricing', link: '/pricing/' }
         ],
         sidebar: {
             '/guide/': [
