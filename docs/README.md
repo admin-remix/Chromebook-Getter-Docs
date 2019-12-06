@@ -12,3 +12,7 @@ features:
   details: Paul M
 footer: Copyright © 2018 - Present | AdminRemix LLC
 ---
+
+::: tip
+  Having trouble installing? [Try this](https://support.google.com/a/answer/6089179?hl=en)
+:::
