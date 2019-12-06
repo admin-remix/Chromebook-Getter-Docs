@@ -23,6 +23,6 @@
 | Pricing                   |         FREE        |      $4.99 p/m      |        $19.99 p/m       |       $16.67 p/m      |
 
 
-### Need a PO? 
+### Paying by purchse order? 
 
 Contact us for a quote [email today](mailto:justin@adminremix.com).
