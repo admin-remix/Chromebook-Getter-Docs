@@ -1,4 +1,4 @@
-# Pricing Chart
+# Pricing Chart <Badge text="it's worth it"/>
 
 
 |                           | Free Plan (forever) | Core Plan (monthly) |  Premium Plan (monthly) | Premium Plan (yearly) |
