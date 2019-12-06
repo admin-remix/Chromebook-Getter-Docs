@@ -1,4 +1,5 @@
-# Pricing Chart {style=text-align:center}
+# Pricing Chart
+
 
 |                           | Free Plan (forever) | Core Plan (monthly) |  Premium Plan (monthly) | Premium Plan (yearly) |
 |---------------------------|:-------------------:|:-------------------:|:-----------------------:|:---------------------:|
