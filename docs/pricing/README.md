@@ -25,4 +25,4 @@
 
 ### Paying by purchse order? 
 
-Contact us for a quote [email today](mailto:justin@adminremix.com).
+[Contact us](mailto:justin@adminremix.com) for a quote.
