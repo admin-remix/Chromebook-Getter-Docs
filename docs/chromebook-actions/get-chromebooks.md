@@ -62,8 +62,6 @@ function multipleOrgGet(orgToGet: string, getSubOrgs: boolean = false) {
 
 ## Screen Shot
 
-# Get Chromebook Sidebar
-
 ![Chromebook Getter Get Side Bar](~@static/side_bar.png)
 
 ## Known Issues

@@ -6,7 +6,3 @@ These sets of tools will always be free for users and will provide a basic way t
 # Chromebook Actions Menu
 
 ![Chromebook Getter Full Menu Fold](~@static/full_menu.png)
-
-# Get Chromebook Sidebar
-
-![Chromebook Getter Get Side Bar](~@static/side_bar.png)
