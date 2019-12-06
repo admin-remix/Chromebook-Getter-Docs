@@ -3,21 +3,21 @@
 
 |                           | Free Plan (forever) | Core Plan (monthly) |  Premium Plan (monthly) | Premium Plan (yearly) |
 |---------------------------|:-------------------:|:-------------------:|:-----------------------:|:---------------------:|
-| Get Chromebooks           |          x          |          x          |            x            |           x           |
-| Set Chromebooks           |          x          |          x          |            x            |           x           |
-| Speed Uploader            |                     |          x          |            x            |           x           |
-| Enrollment Date Filter    |                     |          x          |            x            |           x           |
-| Device Status Filter      |                     |          x          |            x            |           x           |
-| Custom Sheet Names        |                     |                     |            x            |           x           |
-| Batch Retrieval Mode      |                     |                     |            x            |           x           |
-| Bulk Disable Devices      |                     |                     |            x            |           x           |
-| Bulk Deprovsion Devices   |                     |                     |            x            |           x           |
-| Device Quick Search       |                     |                     |            x            |           x           |
-| Create Org Units          |                     |                     |            x            |           x           |
-| Delete Org Units          |                     |                     |            x            |           x           |
-| AUE Report Builder        |                     |                     |            x            |           x           |
-| OS Report Builder         |                     |                     |            x            |           x           |
-| Limited Customer Support  |                     |          x          |                         |                       |
-| Full Customer Support     |                     |                     |            x            |           x           |
+| Get Chromebooks           |  :heavy_check_mark: |  :heavy_check_mark: |    :heavy_check_mark:   |   :heavy_check_mark:  |
+| Set Chromebooks           |  :heavy_check_mark: |  :heavy_check_mark: |    :heavy_check_mark:   |   :heavy_check_mark:  |
+| Speed Uploader            |                     |  :heavy_check_mark: |    :heavy_check_mark:   |   :heavy_check_mark:  |
+| Enrollment Date Filter    |                     |  :heavy_check_mark: |    :heavy_check_mark:   |   :heavy_check_mark:  |
+| Device Status Filter      |                     |  :heavy_check_mark: |    :heavy_check_mark:   |   :heavy_check_mark:  |
+| Custom Sheet Names        |                     |                     |    :heavy_check_mark:   |   :heavy_check_mark:  |
+| Batch Retrieval Mode      |                     |                     |    :heavy_check_mark:   |   :heavy_check_mark:  |
+| Bulk Disable Devices      |                     |                     |    :heavy_check_mark:   |   :heavy_check_mark:  |
+| Bulk Deprovsion Devices   |                     |                     |    :heavy_check_mark:   |   :heavy_check_mark:  |
+| Device Quick Search       |                     |                     |    :heavy_check_mark:   |   :heavy_check_mark:  |
+| Create Org Units          |                     |                     |    :heavy_check_mark:   |   :heavy_check_mark:  |
+| Delete Org Units          |                     |                     |    :heavy_check_mark:   |   :heavy_check_mark:  |
+| AUE Report Builder        |                     |                     |    :heavy_check_mark:   |   :heavy_check_mark:  |
+| OS Report Builder         |                     |                     |    :heavy_check_mark:   |   :heavy_check_mark:  |
+| Limited Customer Support  |                     |  :heavy_check_mark: |                         |                       |
+| Full Customer Support     |                     |                     |    :heavy_check_mark:   |   :heavy_check_mark:  |
 |                           |                     |                     |                         |                       |
 | Pricing                   |         FREE        |      $4.99 p/m      |        $19.99 p/m       |       $16.67 p/m      |
