@@ -25,4 +25,4 @@
 
 ### Contact us for a quote or upgade in the app by credit card.
 
-[Reach out today](mailto:justin@adminremix.com)
+[Email today](mailto:justin@adminremix.com)
