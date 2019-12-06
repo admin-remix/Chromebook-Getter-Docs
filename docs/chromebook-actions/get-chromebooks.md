@@ -77,15 +77,15 @@ function multipleOrgGet(orgToGet: string, getSubOrgs: boolean = false) {
 * chromebookinventory showed me all of the last users?
 * This is known by the core team, we have no plans to change this funcationality currently. (7/20/2019)
 
-#### <del>Exception: tha data validation rule has more items than the limit of 500. Use the "List from a range" criteria instead.</del>
+#### Exception: tha data validation rule has more items than the limit of 500. Use the "List from a range" criteria instead.
 
-* <del>This error only happens for users with over 500 org units.
-* This issue is caused by a hard limit of app script data validation rules having a limit of 500.
-* We are looking into a fix for this issue (7/25/2019)</del>
+* <del>This error only happens for users with over 500 org units.</del>
+* <del>This issue is caused by a hard limit of app script data validation rules having a limit of 500.</del>
+* <del>We are looking into a fix for this issue (7/25/2019)</del>
 * <del>Patch Issued (8/1/2019) bypassing features for users with more than 500 orgs.<del>
 * Issue resolved for all users (8/17/2019)
 
-#### <del>Certain Organizational Units Will Not Pull Data or Say No Data</del>
+#### Certain Organizational Units Will Not Pull Data or Say No Data
 
 * <del>We are currently investigating this issue and have been able to recreate this issue locally. (7/20/2019)</del>
 * Resolved (7/24/2019)
