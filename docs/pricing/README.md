@@ -23,6 +23,6 @@
 | Pricing                   |         FREE        |      $4.99 p/m      |        $19.99 p/m       |       $16.67 p/m      |
 
 
-#### Contact Us | For a quote or upgade in the app by credit card.
+### Contact us for a quote or upgade in the app by credit card.
 
 [Reach out today](mailto:justin@adminremix.com)
