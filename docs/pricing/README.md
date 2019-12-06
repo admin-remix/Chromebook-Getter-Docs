@@ -1,3 +1,5 @@
+# Pricing Chat
+
 |                           | Free Plan (forever) | Core Plan (monthly) |  Premium Plan (monthly) | Premium Plan (yearly) |
 |---------------------------|:-------------------:|:-------------------:|:-----------------------:|:---------------------:|
 | Get Chromebooks           |          x          |          x          |            x            |           x           |
