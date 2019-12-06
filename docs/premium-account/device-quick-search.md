@@ -17,7 +17,7 @@ The deivce quick search feature allows users to get detailed device infomation f
 
 ## Screen Shot
 
-![Chromebook Getter Quick Search Screen Shot](~@static/quick_serach.png)
+![Chromebook Getter Quick Search Screen Shot](~@static/quick_search.png)
 
 ## Known Issues
 
