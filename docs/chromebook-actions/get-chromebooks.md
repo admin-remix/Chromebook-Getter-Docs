@@ -60,6 +60,12 @@ function multipleOrgGet(orgToGet: string, getSubOrgs: boolean = false) {
 
 <sup>COMING SOON</sup>
 
+## Screen Shot
+
+# Get Chromebook Sidebar
+
+![Chromebook Getter Get Side Bar](~@static/side_bar.png)
+
 ## Known Issues
 
 #### My Sidebar says 'Loading'
