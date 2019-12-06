@@ -17,4 +17,4 @@
 | Limited Customer Support  |                     |          x          |                         |                       |
 | Full Customer Support     |                     |                     |            x            |           x           |
 |                           |                     |                     |                         |                       |
-| Pricing                   |         FREE        |      $4.99 p/m      |        $19.99 p/m       |         $16.67        |
+| Pricing                   |         FREE        |      $4.99 p/m      |        $19.99 p/m       |       $16.67 p/m      |
