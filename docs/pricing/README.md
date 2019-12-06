@@ -1,4 +1,4 @@
-# Pricing Chat
+# Pricing Chart {style=text-align:center}
 
 |                           | Free Plan (forever) | Core Plan (monthly) |  Premium Plan (monthly) | Premium Plan (yearly) |
 |---------------------------|:-------------------:|:-------------------:|:-----------------------:|:---------------------:|
