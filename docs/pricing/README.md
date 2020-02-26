@@ -8,10 +8,11 @@
 | Speed Uploader            |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Enrollment Date Filter    |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Device Status Filter      |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
+| Include All Recent Users  |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Custom Sheet Names        |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Batch Retrieval Mode      |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Bulk Disable Devices      |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
-| Bulk Deprovsion Devices   |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
+| Bulk Deprovision Devices  |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Device Quick Search       |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Create Org Units          |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Delete Org Units          |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
