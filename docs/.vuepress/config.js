@@ -1,17 +1,17 @@
 module.exports = {
     plugins: [
-        [
-            '@vuepress/blog',
-            {
-                directories: [
-                    {
-                        id: 'post',
-                        dirname: '_posts',
-                        path: '/'
-                    }
-                ]
-            }
-        ],
+        // [
+        //     '@vuepress/blog',
+        //     {
+        //         directories: [
+        //             {
+        //                 id: 'post',
+        //                 dirname: '_posts',
+        //                 path: '/'
+        //             }
+        //         ]
+        //     }
+        // ],
         [
             '@vuepress/back-to-top'
         ],
@@ -39,7 +39,7 @@ module.exports = {
             { text: 'Premium Actions', link: '/premium-account/'},
             { text: 'Roadmap', link: '/product-roadmap/'},
             { text: 'Pricing', link: '/pricing/' },
-            { text: 'Advice & Guides', link: '/post/'}
+            // { text: 'Advice & Guides', link: '/post/'}
         ],
         sidebar: {
             '/guide/': [
