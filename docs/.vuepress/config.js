@@ -1,15 +1,26 @@
 module.exports = {
     plugins: [
-        '@vuepress/blog',
-        {
-            directories: [
-                {
-                    id: 'post',
-                    dirname: '_posts',
-                    path: '/'
-                }
-            ]
-        },
+        [
+            '@vuepress/blog',
+            {
+                directories: [
+                    {
+                        id: 'post',
+                        dirname: '_posts',
+                        path: '/'
+                    }
+                ]
+            }
+        ],
+        [
+            '@vuepress/back-to-top'
+        ],
+        [
+            '@vuepress/google-analytics',
+            {
+                ga: 'UA-126552154-5'
+            }
+        ]
     ],
     configureWebpack: {
         resolve: {
@@ -70,6 +81,5 @@ module.exports = {
             // }
         }
     },
-    ga: 'UA-126552154-5',
     serviceWorker: process.env.NODE_ENV = 'production',
   }
