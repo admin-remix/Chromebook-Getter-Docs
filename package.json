@@ -5,10 +5,13 @@
   "author": "Lundin Matthews <lundinmatthews@me.com>",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.0.2"
+    "vuepress": "^1.4.1"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@vuepress/plugin-blog": "^1.9.2"
   }
 }

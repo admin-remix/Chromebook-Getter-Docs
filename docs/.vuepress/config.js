@@ -1,4 +1,16 @@
 module.exports = {
+    plugins: [
+        '@vuepress/blog',
+        {
+            directories: [
+                {
+                    id: 'post',
+                    dirname: '_posts',
+                    path: '/'
+                }
+            ]
+        },
+    ],
     configureWebpack: {
         resolve: {
             alias: {
@@ -15,7 +27,8 @@ module.exports = {
             { text: 'Chromebook Actions', link: '/chromebook-actions/'},
             { text: 'Premium Actions', link: '/premium-account/'},
             { text: 'Roadmap', link: '/product-roadmap/'},
-            { text: 'Pricing', link: '/pricing/' }
+            { text: 'Pricing', link: '/pricing/' },
+            { text: 'Advice & Guides', link: '/post/'}
         ],
         sidebar: {
             '/guide/': [
