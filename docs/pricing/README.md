@@ -5,7 +5,7 @@
 |---------------------------|:-------------------:|:--------------------------:|:---------------------------:|:---------------------------:|
 | Get Chromebooks           |  :heavy_check_mark: |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Set Chromebooks           |  :heavy_check_mark: |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
-| Monthly Uploads           |      1000 p/m       |          Unlimited         |          Unlimited          |          Unlimited          |
+| Monthly Uploads           |      1000 p/m       |        **Unlimited**       |        **Unlimited**        |        **Unlimited**        |
 | Speed Uploads             |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Enrollment Date Filter    |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Device Status Filter      |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
@@ -24,7 +24,7 @@
 | Email Customer Support    |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Phone Customer Support    |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
 |                           |                     |                            |                             |                             |
-| Pricing                   |         FREE        | $4.99 per user / per month | $19.99 per user / per month | $16.67 per user / per month |
+| Pricing                   |       **FREE**      | $4.99 per user / per month | $19.99 per user / per month | $16.67 per user / per month |
 
 
 ### Paying by purchase order? 
