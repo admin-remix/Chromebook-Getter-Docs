@@ -9,7 +9,7 @@
 | Speed Uploads             |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Enrollment Date Filter    |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Device Status Filter      |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
-| Support End Date Filled   |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
+| Support End Date Returned |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Include All Recent Users  |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Custom Sheet Names        |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Batch Retrieval Mode      |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
