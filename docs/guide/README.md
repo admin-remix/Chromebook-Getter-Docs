@@ -17,7 +17,7 @@ This results in a smooth, streamlined app that keeps data privacy concerns at it
 
 ## How To Install
 <br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mVfdjpv1WMM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/__XCUnI6OUs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ::: tip
   Having trouble installing? [Try this](https://support.google.com/a/answer/6089179?hl=en)
