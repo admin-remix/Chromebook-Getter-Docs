@@ -19,7 +19,7 @@ The manage organizational units feature allows users to create and delete organi
     * Confirm deletion of org unit by pressing 'ok'
     * A dialog box will confirm action
 
-## Video Walkthrough
+## Video Walk through
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BS2WTZUbTEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

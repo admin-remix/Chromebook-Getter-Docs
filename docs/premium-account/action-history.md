@@ -9,9 +9,7 @@ This new premium Action History report is great for when you are trying to remem
 * Have a Premium Account and the Set Chromebooks feature is changed to the speed uploader by default.
 
 
-## Video Walkthrough
-
-## Video Walkthrough
+## Video Walk through
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r6y50mwgyig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

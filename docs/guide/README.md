@@ -6,12 +6,12 @@ sidebar: auto
 ![Chromebook Getter Logo](~@static/getterlogo.png)
 
 [Chromebook Getter](https://chrome.google.com/webstore/detail/chromebook-getter/iamajmlafjfaobppjfllijpikffekpok?authuser=0)
-is a Google sheet add on that allows Gsuite super admin to get & set Chromebook meta data.
-It was created as a replacement for the chromebookinventory add on that was depricated on July 15th 2019. The project is maintained by [AdminRemix](https://AdminRemix.com)
+is a Google sheet add on that allows G Suite super admin to get & set Chromebook meta data.
+It was created as a replacement for the chromebookinventory add on that was deprecated on July 15th 2019. The project is maintained by [AdminRemix](https://AdminRemix.com)
 
 ## How It Works
 
-Chromebook Getter is powered by Google Appscript.
+Chromebook Getter is powered by Google App Script.
 The add on runs locally in the user's browser and communicates directly with Google servers.
 This results in a smooth, streamlined app that keeps data privacy concerns at its core.
 

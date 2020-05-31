@@ -2,11 +2,11 @@
 sidebar: auto
 ---
 
-# Roadmap
+# Road map
 
-While the core funcationality of Chromebook Getter will always remain free, we would like to introduce mulitple premium features that we belive will enhance and add to the funcationality of Chromebook Getter. Allowing you to be even more productive while using our app. 
+While the core functionality of Chromebook Getter will always remain free, we would like to introduce multiple premium features that we believe will enhance and add to the functionality of Chromebook Getter. Allowing you to be even more productive while using our app. 
 
-## Core Funcationality
+## Core Functionality
 
 * [Get All Chromebooks](/chromebook-actions/get-all-chromebooks/)
 * [Get Single organizational unit and children](/chromebook-actions/get-chromebooks/)
@@ -14,14 +14,14 @@ While the core funcationality of Chromebook Getter will always remain free, we w
 * Move Chromebooks organizational units
 * Freeze Cells On Page Build
 
-## Premium Funcationality
+## Premium Functionality
 
 * Detailed [AUE](https://support.google.com/chrome/a/answer/6220366?hl=en) data reporting and charts (In Production)
-* Detailed charts and reporting on Chromebook fireware health
+* Detailed charts and reporting on Chromebook firmware health
 * Detailed charts and reporting on Chromebook OS version health
 * [Create organizational units](/premium-account/manage-organizational-units/) (In Production)
 * Delete organizational units (In Production)
-* Caching to speed up core funcationality
+* Caching to speed up core functionality
     * [Speed Uploader](/premium-account/speed-uploader/) - Improves upload speed by 85% (In Production)
 * Phone, Email, Video Support (Ready)
 * Detailed Chromebook usage reports based on time and location
@@ -31,12 +31,12 @@ While the core funcationality of Chromebook Getter will always remain free, we w
     * View full user usage history (In Production)
     * View full time usage history (In Production)
     * Update Single Chromebook (In Production)
-    * Deprovision Chrombooks
+    * Deprovision Chromebooks
     * Disable Chromebooks
 * [Get devices by enrollment date](/premium-account/enrollment-date/) (In Production)
 
 \
-<sup>The list of premium features is a living doucment and subject to change based on user feedback.</sup>
+<sup>The list of premium features is a living document and subject to change based on user feedback.</sup>
 
 ## Your Thoughts
 

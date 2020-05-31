@@ -2,7 +2,7 @@
 
 ## Overview
 
-The AUE report allows users to create a report that allows easy budget forcasting by using the AUE data for Chromebooks. The full list of models supports can be found on our [github](https://github.com/admin-remix/chromebooks-aue-11-2019/blob/master/chromebooks-aue-11-2019.csv). If you do not see your device listed please reach out and it can be added to the list. 
+The AUE report allows users to create a report that allows easy budget forecasting by using the AUE data for Chromebooks. The full list of models supports can be found on our [github](https://github.com/admin-remix/chromebooks-aue-11-2019/blob/master/chromebooks-aue-11-2019.csv). If you do not see your device listed please reach out and it can be added to the list. 
 
 ## How To Use
 
@@ -10,10 +10,10 @@ The AUE report allows users to create a report that allows easy budget forcastin
 * Input estimated device cost. 
 * Choose organizational unit. 
 * Press blue 'Build Report' button
-* Depending on the number of devices being searched this report could take some time to build, grab some coffee come back and enjoy your repot. 
+* Depending on the number of devices being searched this report could take some time to build, grab some coffee come back and enjoy your report. 
 
 
-## Video Walkthrough
+## Video Walk through
 
 <sup>COMING SOON</sup>
 

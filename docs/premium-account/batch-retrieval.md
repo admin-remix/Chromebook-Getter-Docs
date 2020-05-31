@@ -8,12 +8,12 @@ There are times when you want to pull a list of devices from a list that could b
 
 * Add-ons -> Chromebook Getter -> Chromebook Actions -> Get Chromebooks
 * Click 'Console Mode' toggle
-* Use the drop down to determin asset id or serial numbers
+* Use the drop down to determine asset id or serial numbers
 * Fill in batch list text box
 * Get Chromebooks
 
 
-## Video Walkthrough
+## Video Walk through
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpRnAyHuJg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
