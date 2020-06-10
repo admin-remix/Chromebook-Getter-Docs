@@ -1,7 +1,7 @@
 # Pricing Chart <Badge text="it's worth it"/>
 
 
-|                           | Free Plan (forever) |     Core Plan (monthly)    |    Premium Plan (monthly)   |    Premium Plan (yearly)    |
+|                           | Free Plan (forever) |     Core Plan (monthly)    |    Premium Plan (monthly)   |    Domain Plan (monthly)    |
 |---------------------------|:-------------------:|:--------------------------:|:---------------------------:|:---------------------------:|
 | Get Chromebooks           |  :heavy_check_mark: |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Set Chromebooks           |  :heavy_check_mark: |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
@@ -23,8 +23,9 @@
 | OS Report Builder         |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Email Customer Support    |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Phone Customer Support    |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
+| Unlimited Users           |                     |                            |                             |      :heavy_check_mark:     |
 |                           |                     |                            |                             |                             |
-| Pricing                   |       **FREE**      | $4.99 per user / per month | $19.99 per user / per month | $16.67 per user / per month |
+| Pricing                   |       **FREE**      | $7.99 per user / per month | $19.99 per user / per month | $150.00 per user / per month|
 
 
 ### Paying by purchase order? 
