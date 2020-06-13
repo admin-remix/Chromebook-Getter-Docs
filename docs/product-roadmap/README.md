@@ -22,7 +22,9 @@ While the core functionality of Chromebook Getter will always remain free, we wo
 * [Create organizational units](/premium-account/manage-organizational-units/) (In Production)
 * Delete organizational units (In Production)
 * Caching to speed up core functionality
-    * [Speed Uploader](/premium-account/speed-uploader/) - Improves upload speed by 85% (In Production)
+    * [Speed Uploader](/premium-account/speed-uploader/) - Improves upload speed by 85% (In Production) (deprecated)
+    * [Upload Service Worker](/upload-service-worker/) - Added in favor of speed uploads.
+    * Download Service Worker
 * Phone, Email, Video Support (Ready)
 * Detailed Chromebook usage reports based on time and location
 * See all recent users (In Production)
