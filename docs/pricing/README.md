@@ -5,7 +5,7 @@
 |---------------------------|:-------------------:|:--------------------------:|:---------------------------:|:---------------------------:|
 | Get Chromebooks           |  :heavy_check_mark: |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Set Chromebooks           |  :heavy_check_mark: |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
-| Monthly Uploads           |      1000 p/m       |        **Unlimited**       |        **Unlimited**        |        **Unlimited**        |
+| Monthly Uploads           |      500 p/m        |        **Unlimited**       |        **Unlimited**        |        **Unlimited**        |
 | Upload Service Worker     |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Enrollment Date Filter    |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Device Status Filter      |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
