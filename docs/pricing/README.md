@@ -21,6 +21,9 @@
 | Delete Org Units          |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | AUE Report Builder        |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | OS Report Builder         |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
+| Bulk Reboot Kiosk Devices |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
+| Bulk Wipe Users Profiles  |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
+| Bulk Power Wash Devices   |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Email Customer Support    |                     |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Phone Customer Support    |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Unlimited Users           |                     |                            |                             |      :heavy_check_mark:     |
