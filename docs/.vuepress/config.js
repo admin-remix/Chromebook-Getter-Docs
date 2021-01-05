@@ -55,7 +55,6 @@ module.exports = {
                 'device-quick-search',
                 'manage-organizational-units',
                 'aue-report',
-                'speed-uploader',
                 'enrollment-date',
                 'filters',
                 'batch-retrieval',
