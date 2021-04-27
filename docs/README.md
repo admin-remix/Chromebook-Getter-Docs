@@ -2,7 +2,7 @@
 home: true
 heroImage: /getterlogo.png
 actionText: Install Now →
-actionLink: https://chrome.google.com/webstore/detail/chromebook-getter/iamajmlafjfaobppjfllijpikffekpok?authuser=0
+actionLink: https://workspace.google.com/marketplace/app/chromebook_getter_by_adminremix/871655740233
 features:
 - title: Great product and a huge time saver.  I have not yet had the opportunity to look at premium features but will. 
   details: Scott M
