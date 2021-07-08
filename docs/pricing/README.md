@@ -1,7 +1,7 @@
 # Pricing Chart <Badge text="it's worth it"/>
 
 
-|                           | Free Plan (forever) |     Core Plan (monthly)    |    Premium Plan (monthly)   |    Domain Plan (monthly)    |
+|                           | Free Plan (forever) | Core Plan monthly with CC  |Premium Plan monthly with CC |Domain Plan (monthly with CC |
 |---------------------------|:-------------------:|:--------------------------:|:---------------------------:|:---------------------------:|
 | Get Chromebooks           |  :heavy_check_mark: |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Set Chromebooks           |  :heavy_check_mark: |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
