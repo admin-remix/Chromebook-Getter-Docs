@@ -1,7 +1,7 @@
 # Pricing Chart <Badge text="it's worth it"/>
 
 
-|                           | Free Plan (forever) | Core Plan monthly with CC  |Premium Plan monthly with CC | Domain Plan monthly with CC |
+|                           |       Free Plan     |    Core Plan online only   |   Premium Plan online only  |          Domain Plan        |
 |---------------------------|:-------------------:|:--------------------------:|:---------------------------:|:---------------------------:|
 | Get Chromebooks           |  :heavy_check_mark: |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Set Chromebooks           |  :heavy_check_mark: |     :heavy_check_mark:     |      :heavy_check_mark:     |      :heavy_check_mark:     |
@@ -28,7 +28,7 @@
 | Phone Customer Support    |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Unlimited Users           |                     |                            |                             |      :heavy_check_mark:     |
 |                           |                     |                            |                             |                             |
-| Pricing                   |       **FREE**      | $7.99 per user / per month | $19.99 per user / per month | $150.00 per domain/per month|
+| Pricing                   |       **FREE**      | $7.99 per user / per month | $19.99 per user / per month |         Contact Sales       |
 
 
 ### Paying by purchase order? 
