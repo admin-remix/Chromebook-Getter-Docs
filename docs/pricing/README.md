@@ -28,7 +28,7 @@
 | Phone Customer Support    |                     |                            |      :heavy_check_mark:     |      :heavy_check_mark:     |
 | Unlimited Users           |                     |                            |                             |      :heavy_check_mark:     |
 |                           |                     |                            |                             |                             |
-| Pricing                   |       **FREE**      | $7.99 per user / per month | $19.99 per user / per month |starting at $34.99 per month |
+| Pricing                   |       **FREE**      | $9.08 per user / per month | $20.75 per user / per month |starting at $36.66 per month |
 
 
 ### Paying by purchase order? 
