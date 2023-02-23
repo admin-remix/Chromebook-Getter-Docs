@@ -9,7 +9,7 @@
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs && cp _redirects docs/.vuepress/dist"
   },
   "dependencies": {
     "@vuepress/plugin-back-to-top": "^1.4.1",
