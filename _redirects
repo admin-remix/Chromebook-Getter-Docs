@@ -1,4 +1,18 @@
 # These rules will change if you change your site’s custom domains or HTTPS settings
 
 # Redirect default Netlify subdomain to primary domain
-https://infallible-turing-eb9919.netlify.com/* https://chromebookgetter.com/:splat 301!
+# https://infallible-turing-eb9919.netlify.com/* https://chromebookgetter.com/:splat 301!
+
+/ https://adminremix.com/chromebook-getter 301!
+/guide/ https://adminremix.com/chromebook-getter/guide#install 301!
+/chromebook-actions/get-chromebooks.html https://adminremix.com/chromebook-getter/guide#get-devices 301!
+/chromebook-actions/set-chromebooks.html https://adminremix.com/chromebook-getter/guide#set-devices 301!
+/premium-account/device-quick-search.html https://adminremix.com/chromebook-getter/guide#quick-search 301!
+/pricing/ https://adminremix.com/chromebook-getter#pricing 301!
+/product-roadmap/ https://adminremix.com/chromebook-getter 301!
+/premium-account/manage-organizational-units.html https://adminremix.com/chromebook-getter/guide#manage-org-units 301!
+/premium-account/aue-report.html https://adminremix.com/chromebook-getter/guide#aue-report 301!
+/premium-account/enrollment-date.html https://adminremix.com/chromebook-getter/guide#enrollment-filter 301!
+/premium-account/filters.html https://adminremix.com/chromebook-getter/guide#multiple-filters 301!
+/premium-account/batch-retrieval.html https://adminremix.com/chromebook-getter/guide#batch-retrieval 301!
+/premium-account/action-history.html https://adminremix.com/chromebook-getter/guide#action-history 301!
